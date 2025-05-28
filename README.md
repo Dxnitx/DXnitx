@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dinithi Gamage</h1>
-<h3 align="center">A frontend developer and IT project manager from Sri Lanka</h3>
+<h3 align="center">A frontend developer and from Sri Lanka</h3>
 
 <p align="left"> <a href="https://twitter.com/dxnithx" target="blank"><img src="https://img.shields.io/twitter/follow/dxnithx?logo=twitter&style=for-the-badge" alt="dxnithx" /></a> </p>
+
+- 🌱 I’m currently learning **Java**
+
+- 📫 How to reach me **dxnithx01@gmail.com**
 
 - ⚡ Fun fact **Call me as DD**
 
