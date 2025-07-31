@@ -76,9 +76,13 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dxnitx&show_icons=true&locale=en&layout=compact" alt="dxnitx top languages" />
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dxnitx&" alt="dxnitx streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dxnitx&show_icons=true&locale=en&layout=compact" alt="dxnitx top languages" width="520" style="border-radius: 10px;" /> <br></br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dxnitx&" alt="dxnitx streak stats" width="520" style="border-radius: 20px;" />
 
 </div>
 
+
+</div>
